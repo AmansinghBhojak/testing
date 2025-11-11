@@ -1,7 +1,10 @@
-list = [1, "hello", {1,2,3,4,5}]
+list = [1, 'hello', {1,2,3,4,5}]
 list.append(4)
+list.append(100000)
 print(list)
 list.extend([8,5,6,])
 print(list)
 list.insert(1,8989898)
+print(list)
+print(list[1:4])
 print(list)
