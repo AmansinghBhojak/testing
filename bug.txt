@@ -3,3 +3,5 @@ it is a bug-fixing file.
 fixed another bug
 
 add another marketting section
+
+add section of hospitals
